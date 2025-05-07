@@ -1,0 +1,13 @@
+section#hero{
+    min-height: 20rem;
+    background-color: hotpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5rem;
+
+}
+section#hero{
+    font-size: 5rem;
+    color: whitesmoke;
+}
