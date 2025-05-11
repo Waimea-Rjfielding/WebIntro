@@ -85,6 +85,9 @@ section#task8 div{
     justify-content: center;
 }
 section#task9 div{
-    justify-content: center;
-
+    align-items: center;
+}
+section#task10 div{
+    align-items: center;
+    flex-wrap: wrap;
 }
